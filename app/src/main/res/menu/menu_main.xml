@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/resetAction"
+        android:title="@string/map_type_normal"
+        android:onClick="setMapTypeNormal">
+    </item>
+    <item android:id="@+id/wikipediaCity"
+        android:title="@string/map_type_hybrid"
+        android:onClick="setMapTypeHybrid">
+    </item>
+    <item android:id="@+id/shareCity"
+        android:title="@string/map_type_satellite"
+        android:onClick="setMapTypeSatellite">
+    </item>
+</menu>

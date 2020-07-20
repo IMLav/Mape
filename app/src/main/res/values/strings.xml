@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mape</string>
+    <string name="title_activity_maps">Mape</string>
+    <string name="map_type_normal">Vue normale</string>
+    <string name="map_type_satellite">Vue satellite</string>
+    <string name="map_type_hybrid">Vue hybride </string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="addInformation">Ajouter des informations </string>
+    <string name="information">Informations </string>
+    <string name="information_1"><u> Titre de la pin </u></string>
+    <string name="informations_2"><u> Information à retenir </u></string>
+    <string name="picture"> <u> Photographie </u></string>
+    <string name="validate"> Valider</string>
+    <string name="close"> Fermer</string>
+    <string name="latLng"> <u> Coordonnées géographiques</u> </string>
+    <string name="title"> <u> Titre de la pin </u> </string>
+    <string name="snippet"> <u> Information à retenir </u>  </string>
+    <string name="latitude"> Latitude  </string>
+    <string name="longitude"> Longitude </string>
+
+</resources>
